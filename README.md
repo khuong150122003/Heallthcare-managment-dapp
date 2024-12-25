@@ -11,16 +11,19 @@
 ---
 
 Admin:
+
 + Add Patient
 + Add doctor, Approve doctor
 + Add Medicine
 + CRUD All function, change fee
 Patient:
+
 + Update profile
 + Buy medicine
 + Book Appoitment
 + Chating with doctor- realtime
 Doctor:
+
 + Update profile
 + See appoitment
 + Chating with Patient
