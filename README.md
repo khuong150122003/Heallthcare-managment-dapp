@@ -16,14 +16,14 @@ Admin:
 + Add doctor, Approve doctor
 + Add Medicine
 + CRUD All function, change fee
-Patient:
 
+Patient:
 + Update profile
 + Buy medicine
 + Book Appoitment
 + Chating with doctor- realtime
-Doctor:
 
+Doctor:
 + Update profile
 + See appoitment
 + Chating with Patient
