@@ -32,5 +32,5 @@ Notification: Add, delete, buy, chat, and anything will show notifications in re
 
 AI chat: but must connect with Open AI.
 
-Link video demo:[https://drive.google.com/file/d/1FZTc_BlQD8WHoH7wF3su35rcuWACwEUi/view?usp=sharing](url)
+Link video demo:[https://drive.google.com/file/d/1FZTc_BlQD8WHoH7wF3su35rcuWACwEUi/view?usp=sharing]
 
